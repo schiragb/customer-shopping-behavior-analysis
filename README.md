@@ -142,6 +142,10 @@ psql -d customer_behavior -f sql/queries.sql
 
 The detailed report will be added to [`report/`](report/) soon.
 
+## 🏅 Internship Certificate
+
+Completed a Data Analysis (Power BI) internship at **Cognijoint Infotech** (16 May – 30 June 2026). The certificate is available in [`certificate/`](certificate/23ESKCY012_ChiragSharma_InternshipCertificate.pdf).
+
 ## 👤 Author
 
 **Chirag Sharma** — B.Tech CSE (IoT), Swami Keshwanand Institute of Technology, Jaipur
